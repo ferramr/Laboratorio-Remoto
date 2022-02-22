@@ -4,5 +4,4 @@ En este repositorio se encuentra parte de la documentación y programas de desar
 ---------------------------------
 ![Plano Inclinado 1](https://user-images.githubusercontent.com/87343531/143146929-555e00f2-3123-42c5-a006-dff3fc246fee.jpg)
 
-Texto de prueba añadido por Eduardo.
----------------------------------
+
